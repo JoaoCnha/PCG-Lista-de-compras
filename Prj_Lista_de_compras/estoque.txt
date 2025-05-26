@@ -1,0 +1,4 @@
+alimento:c:7:1:2:1990
+alimento:d:12:1:2:1990
+alimento:e:2:1:2:1990
+alimenticio:maca:10:10:5:2036
