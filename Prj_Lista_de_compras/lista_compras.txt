@@ -1,4 +1,0 @@
-Setor: alimento | Produto: c | Quantidade: 7 | Validade: 01/02/1990
-Setor: alimento | Produto: d | Quantidade: 12 | Validade: 01/02/1990
-Setor: alimento | Produto: e | Quantidade: 2 | Validade: 01/02/1990
-Setor: alimenticio | Produto: maca | Quantidade: 10 | Validade: 10/05/2036
